@@ -7,5 +7,6 @@ public class seltest {
 	public void attest() {
 		System.out.println("test version 1");
 		System.out.println("test version 2");
+		System.out.println("test version 3");
 	}
 }
